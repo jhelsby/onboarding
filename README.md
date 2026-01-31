@@ -6,6 +6,7 @@
 
 * Clean up the Dock, make the icons smaller, and autohide it.
 * Disable user interface sounds.
+* Map Caps Lock to Control. (Search "Customise modifer keys" in Spotlight.)
 
 ### Software
 
