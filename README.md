@@ -7,6 +7,7 @@
 * Clean up the Dock, make the icons smaller, and autohide it.
 * Disable user interface sounds.
 * Map Caps Lock to Control. (Search "Customise modifer keys" in Spotlight.)
+* Mouse sensitivity.
 
 ### Software
 
@@ -19,7 +20,7 @@
 * [homebrew](https://brew.sh/). Then:
 
   * ```bash
-    brew install fzf nvim tmux
+    brew install fzf nvim tmux ripgrep
     ```
 
 * Zsh history:
@@ -41,3 +42,5 @@
 * [VLC](https://www.videolan.org/).
 
 * Ensure my desktop is backed up, or has shortcuts to backed-up files. (Dropbox, Google Drive, etc.).
+
+* Password manager.
