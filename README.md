@@ -15,12 +15,20 @@
 
 * [`oh-my-zsh`](https://ohmyz.sh/).
 
+  * Add omz plugins: colored-man-pages, command-not-found. Install and add zsh-autosuggestions, zsh-syntax-highlighting.
+
 * [`powerlevel10k`](https://github.com/romkatv/powerlevel10k?tab=readme-ov-file#getting-started).
 
 * [homebrew](https://brew.sh/). Then:
 
   * ```bash
     brew install fzf nvim tmux ripgrep
+    ```
+
+* fzf shell integration. Add this to .zshrc:
+
+  * ```bash
+    source <(fzf --zsh)
     ```
 
 * Zsh history:
