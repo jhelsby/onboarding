@@ -44,3 +44,5 @@
 * Ensure my desktop is backed up, or has shortcuts to backed-up files. (Dropbox, Google Drive, etc.).
 
 * Password manager.
+
+* Maccy - clipboard history.
